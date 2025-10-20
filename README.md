@@ -1,6 +1,6 @@
-# Report
+# RLPrompt: Optimizing Discrete Text Prompts with Reinforcement Learning
 
-[Report](report.pdf)
+### [Report](report.pdf)
 
 
 
